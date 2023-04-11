@@ -27,11 +27,11 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-6 pb-8 lg:pb-16 lg:px-8">
         <div className="border-t border-black/10 dark:border-white/10 pt-8 flex items-center justify-between">
           <p className="text-xs leading-5 text-gray-400">
-            &copy; {new Date().getFullYear()} Greg Ives. All rights reserved.
+            &copy; {new Date().getFullYear()} GPT Domains. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a
-              href="https://github.com/gregives/recommend.domains"
+              href="https://github.com/"
               className="text-gray-400 dark:text-gray-500 hover:text-gray-500 dark:hover:text-gray-400 rounded-full focus:outline-none focus-visible:outline-2 focus-visible:outline-indigo-600 dark:focus-visible:outline-indigo-200"
             >
               <span className="sr-only">GitHub</span>
