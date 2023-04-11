@@ -25,11 +25,11 @@ export const metadata = {
     title: "Recommend Domains",
     description:
       "Use artificial intelligence to find the perfect domain name for your next project.",
-    url: "https://recommend.domains",
+    url: "https://gptdomains.vercel.app",
     siteName: "Recommend Domains",
     images: [
       {
-        url: "https://recommend.domains/opengraph.jpg",
+        url: "https://gptdomains.vercel.app/opengraph.jpg",
         width: 1200,
         height: 630,
       },
@@ -41,7 +41,7 @@ export const metadata = {
     title: "Recommend Domains",
     description:
       "Use artificial intelligence to find the perfect domain name for your next project.",
-    images: ["https://recommend.domains/opengraph.jpg"],
+    images: ["https://gptdomains.vercel.app/opengraph.jpg"],
   },
 };
 
