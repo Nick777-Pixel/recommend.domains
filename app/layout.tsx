@@ -18,15 +18,15 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata = {
-  title: "Recommend Domains",
+  title: "GPT Domains",
   description:
     "Use artificial intelligence to find the perfect domain name for your next project.",
   openGraph: {
-    title: "Recommend Domains",
+    title: "GPT Domains",
     description:
       "Use artificial intelligence to find the perfect domain name for your next project.",
     url: "https://gptdomains.vercel.app",
-    siteName: "Recommend Domains",
+    siteName: "GPT Domains",
     images: [
       {
         url: "https://gptdomains.vercel.app/opengraph.jpg",
@@ -38,7 +38,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Recommend Domains",
+    title: "GPT Domains",
     description:
       "Use artificial intelligence to find the perfect domain name for your next project.",
     images: ["https://gptdomains.vercel.app/opengraph.jpg"],
@@ -69,7 +69,7 @@ export default function RootLayout({
               className="flex items-center -my-0.5 -mx-2 py-0.5 px-2 rounded-full focus:outline-none focus-visible:outline-2 focus-visible:outline-indigo-600"
             >
               <GlobeAltIcon className="h-5 w-5 mr-2 -ml-2" aria-hidden="true" />
-              recommend.domains
+              GPT Domains
             </a>
             <a
               href="https://github.com/gregives/recommend.domains"
